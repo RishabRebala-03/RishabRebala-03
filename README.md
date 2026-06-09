@@ -1,12 +1,14 @@
 # Hi, I'm Rishab 👋
 
-![GitHub Streak](https://streak-stats.demolab.com?user=RishabRebala-03&theme=tokyonight)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RishabRebala-03&theme=tokyo-night)](https://github.com/RishabRebala-03)
-
 Leading AI/ML @ Naxrita.
 
 I build enterprise software, intelligent automation systems, and AI-powered products that solve real business problems.
+
+---
+
+![GitHub Streak](https://streak-stats.demolab.com?user=RishabRebala-03&theme=tokyonight)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RishabRebala-03&theme=tokyo-night)](https://github.com/RishabRebala-03)
 
 ## What I'm Building
 
