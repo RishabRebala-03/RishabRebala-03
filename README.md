@@ -20,11 +20,11 @@ Python • JavaScript • TypeScript • SQL
 
 ### Frontend
 
-React • Next.js • Tailwind CSS
+React • Next.js • Vite.Js • Tailwind CSS
 
 ### Backend
 
-Node.js • Express • REST APIs
+Node.js • Express • REST APIs • FLASK • FastAPI
 
 ### AI / ML
 
@@ -32,7 +32,7 @@ LLMs • RAG • Prompt Engineering • Document Intelligence • NLP
 
 ### Database
 
-PostgreSQL • MySQL
+PostgreSQL • MySQL • MongoDB
 
 ## Featured Projects
 
