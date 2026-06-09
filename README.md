@@ -1,12 +1,6 @@
 # Hi, I'm Rishab 👋
 
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=RishabRebala-03&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishabRebala-03&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
+![GitHub Streak](https://streak-stats.demolab.com?user=RishabRebala-03&theme=tokyonight)
 
 Leading AI/ML @ Naxrita.
 
