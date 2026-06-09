@@ -1,16 +1,68 @@
-## Hi there 👋
+# Hi, I'm Rishab 👋
 
-<!--
-**RishabRebala-03/RishabRebala-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Leading AI/ML @ Naxrita.
 
-Here are some ideas to get you started:
+I build enterprise software, intelligent automation systems, and AI-powered products that solve real business problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm Building
+
+* 🤖 AI-powered ERP systems
+* 🏢 Human Resource Management Systems (HRMS)
+* 📚 Learning Management & Assessment Platforms
+* 📄 Document Intelligence & Knowledge Systems
+* ⚡ Workflow Automation Solutions
+
+## Tech Stack
+
+### Languages
+
+Python • JavaScript • TypeScript • SQL
+
+### Frontend
+
+React • Next.js • Tailwind CSS
+
+### Backend
+
+Node.js • Express • REST APIs
+
+### AI / ML
+
+LLMs • RAG • Prompt Engineering • Document Intelligence • NLP
+
+### Database
+
+PostgreSQL • MySQL
+
+## Featured Projects
+
+### AI ERP
+
+An enterprise resource planning platform enhanced with AI-driven workflows and intelligent automation.
+
+### HRMS
+
+A complete human resource management system covering employee management, attendance, leave management, and organizational workflows.
+
+### Plant-wise Document Intelligence Portal
+
+An AI-powered document management and retrieval platform designed for enterprise-scale operations.
+
+### EMAX Test Portal
+
+A learning and assessment platform for conducting examinations, evaluations, and skill assessments.
+
+## Current Focus
+
+Building AI-native enterprise software that reduces manual work and increases operational efficiency.
+
+## Beyond Code
+
+* 🎵 Music enthusiast
+* 🚗 Car lover
+* 🧠 AI explorer
+* ☕ Professional debugger
+
+---
+
+*"Interested in building systems that simplify work, improve efficiency, and solve real-world problems."*
