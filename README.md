@@ -6,8 +6,6 @@ I build enterprise software, intelligent automation systems, and AI-powered prod
 
 ---
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RishabRebala-03&theme=tokyo-night)](https://github.com/RishabRebala-03)
-
 ## What I'm Building
 
 * 🤖 AI-powered ERP systems
