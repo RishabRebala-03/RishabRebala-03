@@ -1,6 +1,6 @@
 # Hi, I'm Rishab 👋
 
-Leading AI/ML @ Naxrita.
+Working on AI/ML @ Naxrita.
 
 I build enterprise software, intelligent automation systems, and AI-powered products that solve real business problems.
 
